@@ -29,14 +29,14 @@
 
 #### Studying in this moment:
 
+![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Laravel-f4f9fe?style=for-the-badge&logo=Laravel&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
