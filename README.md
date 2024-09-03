@@ -31,7 +31,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Laravel-f4f9fe?style=for-the-badge&logo=Laravel&logoColor=red)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
 #### Databases:
